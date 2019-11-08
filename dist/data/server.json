@@ -1,0 +1,11 @@
+{
+    "site1":[{"precio":25.3}],
+    "site2":{
+        "p":24.8
+    },
+    "site3":{"producto":{
+        "valor":22.9,
+        "descripcion":"producto test"
+    }}
+    
+}
